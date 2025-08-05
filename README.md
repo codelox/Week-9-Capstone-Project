@@ -42,12 +42,10 @@ Currency Converter is a simple and lightweight mobile app that allows users to c
 
 #### Optional Nice-to-have Stories
 
-- [ ] User can tap a button to swap the base and target currencies
-- [ ] User can view flags next to currency codes
-- [ ] User can save favorite currency pairs for quick access
-- [ ] User can view a simple chart of historical exchange rate trends
-- [ ] App supports offline conversion using previously cached rates
-- [ ] App includes light/dark mode toggle
+- [x] User can tap a button to swap the base and target currencies
+- [x] User can view flags next to currency codes
+- [x] App includes light/dark mode toggle
+- [x] User can view their previous activtiy
 
 ---
 
@@ -66,6 +64,7 @@ Currency Converter is a simple and lightweight mobile app that allows users to c
 - **Optional: Favorites Screen**
   - List of saved currency pairs
   - Quick convert with one tap
+  - Currency exchange rates
 
 ---
 
@@ -74,18 +73,15 @@ Currency Converter is a simple and lightweight mobile app that allows users to c
 #### Tab Navigation (optional if you add more screens):
 
 - Conversion
-- Favorites
-- Settings
+- History
 
 #### Flow Navigation (Screen to Screen):
 
-- Home → Settings
-- Home → Favorites
+- Home → History
+- Home → Live Rate
 - Home → Conversion Result
 
 ---
 
-## Wireframes
 
-*Upload your wireframe sketch in the `images/` folder and replace the line below with the actual image*
 
