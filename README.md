@@ -82,6 +82,12 @@ Currency Converter is a simple and lightweight mobile app that allows users to c
 - Home → Conversion Result
 
 ---
+### 4. App video
 
-
-
+<div>
+    <a href="https://www.loom.com/share/c9575a6801a2443ea951656a61d2621c">
+    </a>
+    <a href="https://www.loom.com/share/c9575a6801a2443ea951656a61d2621c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c9575a6801a2443ea951656a61d2621c-f83f3ae589d8361b-full-play.gif">
+    </a>
+  </div>
